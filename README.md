@@ -6,9 +6,9 @@ Welcome to our Mini-Project for SC1015 (Introduction to Data Science and Artific
 For detailed walkthrough, please view the source code in order from:
 1. [Data Extraction](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataExtractionAndCleanup.ipynb)
 2. [Data Visualization](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataVisualizationEDA.ipynb)
-3. [Decision Tree Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DecisionTree.ipynb)
-4. [Random Forest Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/RandomForest.ipynb)
-5. [Gradient Boosting Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/GradientBoostingClassifier.ipynb)
+3. [Decision Tree Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataVisualizationEDA.ipynb)
+4. [Random Forest Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataVisualizationEDA.ipynb)
+5. [Gradient Boosting Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataVisualizationEDA.ipynb)
 
 ---
 ## Problem Definition
