@@ -4,12 +4,11 @@
 Welcome to our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime data from the Kaggle dataset [Anime Recommendation Database 2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020). 
 
 For detailed walkthrough, please view the source code in order from:
-1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
-2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
-3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Decision Tree Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Random Forest Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-6. [Gradient Boosting Classifier](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+1. [Data Extraction](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataExtractionAndCleanup.ipynb)
+2. [Data Visualization](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataVisualizationEDA.ipynb)
+3. [Decision Tree Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DecisionTree.ipynb)
+4. [Random Forest Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/RandomForest.ipynb)
+5. [Gradient Boosting Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/GradientBoostingClassifier.ipynb)
 
 ---
 ## Problem Definition
