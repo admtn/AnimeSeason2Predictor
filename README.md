@@ -83,10 +83,10 @@ We were able to accurately predict whether an anime will have a sequel with the 
 
 ##  Contributors
 
-- Adam Tan Jun Xiang : Motivation/Problem Statement, Data Cleanup, Video Narrator
-
-- Arun Ezekiel: Data Cleanup, Exploratory Data Analysis/Visualisation, Video Editor
-- Lim Shi Bin: Machine Learning, Video Narrator
+- Adam Tan : Motivation/Problem Statement, Data Extraction & Curation, Video Narrator
+- Arun Ezekiel : Exploratory Data Analysis/Visualisation, Data Preparation & Cleaning, Video Editor
+- Lim Shi Bin : Machine Learning, Video Narrator
+(Contributions include respective slides, script and code where applicable)
 
 ## References
 
