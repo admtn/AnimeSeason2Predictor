@@ -1,4 +1,5 @@
-﻿# Welcome to Anime Season 2 Predictor repository
+﻿
+# Welcome to Anime Season 2 Predictor repository
 ![Welcome Image](https://www.meme-arsenal.com/memes/c8914885099656b0430179c51ffe6f91.jpg)
 ## About
 Welcome to our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime data from the Kaggle dataset [Anime Recommendation Database 2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020). 
@@ -15,11 +16,7 @@ For detailed walkthrough, please view the source code in order from:
 
 5. [Gradient Boosting Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DataVisualizationEDA.ipynb)
 
-3. [Decision Tree Classifier](https://github.com/arun016/AnimeSeason2Predictor/blob/main/DecisionTree.ipynb)
 
-  
-
----
 
 ##  Problem Definition
 
@@ -33,7 +30,7 @@ For detailed walkthrough, please view the source code in order from:
 - Online Content Creators -- Produce content by providing news updates/rumors
 - Merchandise Producers -- Able to make an informed decision on whether to produce merchandise for the anime
 
----
+
 
 ##  Choosing our Dataset
 
@@ -73,13 +70,12 @@ We were able to accurately predict whether an anime will have a sequel with the 
     
 -   Using Gradient Boosting Classifier, we could give a convincing prediction of whether an anime will get a sequel based on 3 variables alone
     
--   Good indicator for users to know if an anime will have a sequel to CALM THEM DOWN
+-   Good indicator for users to know if an anime will have a sequel to appease them
 
 -   Our model only considered 3 factors. In most cases, there are more factors that are considered when making another season to an anime, such as production cost, availability of resources etc.
 
 
 ##  What did we learn from this project?
-
 
 - Random Forest, an improved version of decision trees, making use of a collection of trees
 
@@ -87,8 +83,20 @@ We were able to accurately predict whether an anime will have a sequel with the 
 
 ##  Contributors
 
-- Adam Tan Jun Xiang
+- Adam Tan Jun Xiang : Motivation/Problem Statement, Data Cleanup, Video Narrator
 
-- Lim Shi Bin
+- Arun Ezekiel: Data Cleanup, Exploratory Data Analysis/Visualisation, Video Editor
+- Lim Shi Bin: Machine Learning, Video Narrator
 
-- Arun Ezekiel
+## References
+
+[https://www.grandviewresearch.com/industry-analysis/anime-market](https://www.grandviewresearch.com/industry-analysis/anime-market "https://www.grandviewresearch.com/industry-analysis/anime-market")  
+[https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020 "https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020")  
+[https://www.mastersindatascience.org/learning/statistics-data-science/undersampling/](https://www.mastersindatascience.org/learning/statistics-data-science/undersampling/ "https://www.mastersindatascience.org/learning/statistics-data-science/undersampling/")  
+[https://www.cbr.com/why-anime-seasons-take-so-long/](https://www.cbr.com/why-anime-seasons-take-so-long/ "https://www.cbr.com/why-anime-seasons-take-so-long/")  
+[https://www.datasciencecentral.com/decision-tree-vs-random-forest-vs-boosted-trees-explained/](https://www.datasciencecentral.com/decision-tree-vs-random-forest-vs-boosted-trees-explained/ "https://www.datasciencecentral.com/decision-tree-vs-random-forest-vs-boosted-trees-explained/")  
+[https://www.educba.com/random-forest-vs-gradient-boosting/](https://www.educba.com/random-forest-vs-gradient-boosting/ "https://www.educba.com/random-forest-vs-gradient-boosting/")  
+[https://leonlok.co.uk/blog/decision-trees-random-forests-gradient-boosting-whats-the-difference/](https://leonlok.co.uk/blog/decision-trees-random-forests-gradient-boosting-whats-the-difference/ "https://leonlok.co.uk/blog/decision-trees-random-forests-gradient-boosting-whats-the-difference/")  
+[https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/ "https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/")  
+[https://en.wikipedia.org/wiki/Random_forest](https://en.wikipedia.org/wiki/Random_forest "https://en.wikipedia.org/wiki/Random_forest")  
+[https://en.wikipedia.org/wiki/Gradient_boosting](https://en.wikipedia.org/wiki/Gradient_boosting "https://en.wikipedia.org/wiki/Gradient_boosting")
