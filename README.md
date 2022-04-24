@@ -102,3 +102,5 @@ We were able to accurately predict whether an anime will have a sequel with the 
 [https://en.wikipedia.org/wiki/Gradient_boosting](https://en.wikipedia.org/wiki/Gradient_boosting "https://en.wikipedia.org/wiki/Gradient_boosting")
 [https://seaborn.pydata.org/api.html](https://seaborn.pydata.org/api.html "https://seaborn.pydata.org/api.html")
 [https://pandas.pydata.org/docs/reference/index.html](https://pandas.pydata.org/docs/reference/index.html "https://pandas.pydata.org/docs/reference/index.html")
+[https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/](https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/ "https://www.geeksforgeeks.org/random-forest-classifier-using-scikit-learn/")
+[https://stackabuse.com/gradient-boosting-classifiers-in-python-with-scikit-learn/](https://stackabuse.com/gradient-boosting-classifiers-in-python-with-scikit-learn/ "https://stackabuse.com/gradient-boosting-classifiers-in-python-with-scikit-learn/")
