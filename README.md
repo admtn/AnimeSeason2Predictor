@@ -101,4 +101,4 @@ We were able to accurately predict whether an anime will have a sequel with the 
 [https://en.wikipedia.org/wiki/Random_forest](https://en.wikipedia.org/wiki/Random_forest "https://en.wikipedia.org/wiki/Random_forest")  
 [https://en.wikipedia.org/wiki/Gradient_boosting](https://en.wikipedia.org/wiki/Gradient_boosting "https://en.wikipedia.org/wiki/Gradient_boosting")
 [https://seaborn.pydata.org/api.html](https://seaborn.pydata.org/api.html "https://seaborn.pydata.org/api.html")
-[https://pandas.pydata.org/docs/reference/index.html](https://pandas.pydata.org/docs/reference/index.html) "https://pandas.pydata.org/docs/reference/index.html"
+[https://pandas.pydata.org/docs/reference/index.html](https://pandas.pydata.org/docs/reference/index.html "https://pandas.pydata.org/docs/reference/index.html")
