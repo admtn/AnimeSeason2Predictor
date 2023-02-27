@@ -65,10 +65,10 @@ We found that anime with sequels had better scores,  tend to rank higher and tha
 ![](screenshots/HeatmapDecisionTree.png)
 2. Random Forest Classifier
 ### Random Forest is a collection of decision trees with a single, aggregated result
-Step 1: n number of random records are taken from the data set having k number of records. 
-Step 2: Individual decision trees are constructed for each sample. 
-Step 3: Each decision tree will generate an output. 
-Step 4: Final output is considered based on Majority Voting
+Step 1 - n number of random records are taken from the data set having k number of records. 
+Step 2 - Individual decision trees are constructed for each sample. 
+Step 3 - Each decision tree will generate an output. 
+Step 4 - Final output is considered based on Majority Voting
 ![](screenshots/HeatMapRandomForestTree.png)
 ### 3. Gradient Boosting Classifier
 Gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees. 
