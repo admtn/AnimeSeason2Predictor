@@ -61,12 +61,15 @@ We found that anime with sequels had better scores,  tend to rank higher and tha
 ##  Models Used
 
 1. Decision Tree Classifier
-
+![](screenshots/DecisionTree.png)
+![](screenshots/HeatmapDecisionTree.png)
 2. Random Forest Classifier
-
+![](screenshots/HeatMapRandomForestTree.png)
 3. Gradient Boosting Classifier
-
+![](HeatMapGradientBoostingTree.png)
 ##  Conclusion
+![](screenshots/res1.png)
+![](screenshots/res2.png)
 
 We were able to accurately predict whether an anime will have a sequel with the variables Score, Ranked and Source. Our accuracy rate was consistently above 70% when provided with these values but only when using the Gradient Boosting Classifer with sampled data. Sampling the data was a very important step in our project as without it, we were having poor accuracy results, consistently between the 30~50% range.
 
