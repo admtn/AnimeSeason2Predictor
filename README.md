@@ -60,14 +60,15 @@ We found that anime with sequels had better scores,  tend to rank higher and tha
 
 ##  Models Used
 
-For our Machine Learning models used, we used to classification models over linear regression models due to the nature of our problem statement.
+For our Machine Learning models used, we used classification models over linear regression models due to the nature of our problem statement.
 
-1. Decision Tree Classifier
+### 1. Decision Tree Classifier
 ![](screenshots/DecisionTree.png)
 ![](screenshots/HeatmapDecisionTree.png)
-2. Random Forest Classifier
 
-### Random Forest is a collection of decision trees with a single, aggregated result
+
+### 2. Random Forest Classifier
+Random Forest is a collection of decision trees with a single, aggregated result
 Steps:
 1. n number of random records are taken from the data set having k number of records.
 3. Individual decision trees are constructed for each sampl
@@ -78,8 +79,8 @@ Steps:
 ![](screenshots/HeatMapRandomForestTree.png)
 ### 3. Gradient Boosting Classifier
 Gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees.
-
 When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest.
+
 ![](screenshots/HeatMapGradientBoostingTree.png)
 
 ##  Conclusion
