@@ -75,7 +75,8 @@ Steps:
           
 ![](screenshots/HeatMapRandomForestTree.png)
 ### 3. Gradient Boosting Classifier
-Gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees. 
+Gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees.
+
 When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest.
 ![](screenshots/HeatMapGradientBoostingTree.png)
 
