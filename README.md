@@ -52,6 +52,10 @@ We explored the numerical and categorical columns in our dataset, namely:
 
 - Source
 
+![](screenshots/Score.png)
+![](screenshots/Source.png)
+![](screenshots/Ranked.png)
+
 We found that anime with sequels had better scores,  tend to rank higher and that there was a higher percentage of anime with sequels that came from Manga than any other medium.
 
 ##  Models Used
