@@ -60,6 +60,8 @@ We found that anime with sequels had better scores,  tend to rank higher and tha
 
 ##  Models Used
 
+For our Machine Learning models used, we used to classification models over linear regression models due to the nature of our problem statement.
+
 1. Decision Tree Classifier
 ![](screenshots/DecisionTree.png)
 ![](screenshots/HeatmapDecisionTree.png)
