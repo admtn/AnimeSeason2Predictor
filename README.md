@@ -64,11 +64,15 @@ We found that anime with sequels had better scores,  tend to rank higher and tha
 ![](screenshots/DecisionTree.png)
 ![](screenshots/HeatmapDecisionTree.png)
 2. Random Forest Classifier
+
 ### Random Forest is a collection of decision trees with a single, aggregated result
+
  Markup : 1. A numbered list
               1. A nested numbered list
               2. Which is numbered
           2. Which is numbered
+          
+          
 ![](screenshots/HeatMapRandomForestTree.png)
 ### 3. Gradient Boosting Classifier
 Gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees. 
