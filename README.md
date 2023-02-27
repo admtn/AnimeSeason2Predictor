@@ -68,7 +68,7 @@ For our Machine Learning models used, we used classification models over linear 
 
 
 ### 2. Random Forest Classifier
-Random Forest is a collection of decision trees with a single, aggregated result
+Random Forest is a collection of decision trees with a single, aggregated result  
 Steps:
 1. n number of random records are taken from the data set having k number of records.
 3. Individual decision trees are constructed for each sampl
