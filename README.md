@@ -66,7 +66,8 @@ We found that anime with sequels had better scores,  tend to rank higher and tha
 2. Random Forest Classifier
 ![](screenshots/HeatMapRandomForestTree.png)
 3. Gradient Boosting Classifier
-![](HeatMapGradientBoostingTree.png)
+![](screenshots/HeatMapGradientBoostingTree.png)
+
 ##  Conclusion
 ![](screenshots/res1.png)
 ![](screenshots/res2.png)
